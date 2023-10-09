@@ -1,4 +1,4 @@
-# Nexos Educacao - Imersao PowerBI - Dashboard Financeiro
+# Nexos Educação - Imersao PowerBI - Dashboard Financeiro
 Dashboard 1 da Imersão PowerBI pela Nexos Educação com Karine Lago e Leticia Smirelli em Setembro de 2023.
 
 
@@ -16,6 +16,7 @@ A coluna chave do relacionamento foi "Centro de Custo" que foi processada para q
 O seu tipo foi convertido para texto e o prefixo "CC " foi retirado em uma das tabelas.
 
 ![Dados-Financeiros](Printscreens/Dados-Financeiros.png)
+
 
 ## Dashboard
 

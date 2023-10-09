@@ -1,4 +1,4 @@
-# Nexos Educacao - Imersao PowerBI
+# Nexos Educação - Imersao PowerBI
 Atividades realizadas na Imersão PowerBI pela Nexos Educação com Karine Lago e Leticia Smirelli em Setembro de 2023.
 
 Versão do PowerBI utilizada: 2.114.664.0 64-bit (fevereiro de 2023)

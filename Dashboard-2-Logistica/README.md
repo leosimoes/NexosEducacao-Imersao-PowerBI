@@ -1,4 +1,4 @@
-# Nexos Educacao - Imersao PowerBI - Dashboard Logística
+# Nexos Educação - Imersao PowerBI - Dashboard Logística
 Dashboard 2 da Imersão PowerBI pela Nexos Educação com Karine Lago e Leticia Smirelli em Setembro de 2023.
 
 

@@ -1,4 +1,4 @@
-# Nexos Educacao - Imersao PowerBI - Dashboard Vendas
+# Nexos Educação - Imersao PowerBI - Dashboard Vendas
 Dashboard 3 da Imersão PowerBI pela Nexos Educação com Karine Lago e Leticia Smirelli em Setembro de 2023.
 
 
