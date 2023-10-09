@@ -1,4 +1,4 @@
-# Nexos Educação - Imersao PowerBI - Dashboard Financeiro
+# Nexos Educação - Imersão PowerBI - Dashboard Financeiro
 Dashboard 1 da Imersão PowerBI pela Nexos Educação com Karine Lago e Leticia Smirelli em Setembro de 2023.
 
 
